@@ -18,7 +18,6 @@
 !/tmp/.keep
 
 config/database.yml
-config/secrets.yml`
-
+congig/secrets.yml
 # Ignore Byebug command history file.
 .byebug_history
